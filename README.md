@@ -10,7 +10,7 @@ Project 1 5/5/23 : Optimize webpage, comply with accessibility standards based o
 
 # Link
 
-![Link to Deployed Webpage](https://lexabexa.github.io/Challenge-1-fix-website/).
+![Link to Deployed Webpage](https://lexabexa.github.io/Challenge-1-fix-website/)
 
 ![Link to Github Repository](https://github.com/Lexabexa/Challenge-1-fix-website).
 
